@@ -1,4 +1,5 @@
 # Projetos_JavaScript
 
 
-[texto do link](Projetos_JavaScript/counter/index.html)
+[Abrir contador](https://github.com/AndersonNP/Projetos_JavaScript/blob/master/counter/index.html)
+

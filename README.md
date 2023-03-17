@@ -1,3 +1,3 @@
 # Projetos_JavaScript
 
-[Your Title](Projetos_JavaScript/counter/)
+[Your Title](Projetos_JavaScript/counter/index.html)
